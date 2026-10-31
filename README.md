@@ -1,5 +1,4 @@
-# NETWORKWALKS--BJMIKIA-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
- # Kali Purple on VMware – NAT network 10.0.0.0/24
+# Kali Purple on VMware – NAT network 10.0.0.0/24
 
 🇬🇧 [English](#english) | 🇫🇷 [Français](#français)
 
